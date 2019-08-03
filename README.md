@@ -1,0 +1,1 @@
+# codigo_sensor_temperatura
